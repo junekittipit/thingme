@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WebSocketsClient.h>
 
-const char* ssid = "@IPI-Teams";
-const char* password = "@Ais.co.th";
+const char* ssid = "**********";
+const char* password = "************";
 
 WebSocketsClient webSocket;
 int ledpin = 18;
